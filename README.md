@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student at Alamein International University, actively pursuing my degree with a strong passion for AI, Machine Learning , deep learning , nural network and problem solving. I have completed many courses, where I got a base in many technologies and experience working on both team-based, solo projects and evaluating them.<br><br> Currently, I am exploring machine learning , AI , and algorthims.<br><br>I am seaking to spread my knowledge by working in different environments, contributing to research papers, and join real-world  projects.<br><br>
+I am a Computer Science student at Alamein International University, actively pursuing my degree with a strong passion fordeep learning,AI,nural network, Machine Learning , and problem solving. I have completed many courses, where I got a base in many technologies and experience working on both team-based, single projects and evaluating them.<br><br> Currently, I am exploring machine learning, data mining , AI , and algorthims.<br><br>I am seaking to spread my knowledge by working in different environments, contributing to research papers, and join real-world  projects.<br><br>
 
 
 ## 🌐 Socials:
