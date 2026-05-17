@@ -1,5 +1,26 @@
-# 💫 About Me:
-I am a Computer Science student at Alamein International University, actively pursuing my degree with a strong passion for AI, Machine Learning , deep learning , nural network and problem solving. I have completed many courses, where I got a base in many technologies and experience working on both team-based, solo projects and evaluating them.<br><br>Currently, I am exploring machine learning , AI , and algorthims.<br><br>I am seaking to spread my knowledge by joining different environments, contributing to research papers, and join real-world projects.
+##  About Me:
+
+I'm a **Computer Science student at Alamein International University** with a strong focus on **Artificial Intelligence** and **Software Engineering**. I'm passionate about building intelligent systems that solve real-world problems through **Machine Learning**, **Computer Vision**, and **Data-Driven Solutions**.
+
+ **Current Focus:**
+- Building ML models for **fraud detection** and **predictive analytics**
+- Developing **image processing** applications using OpenCV and deep learning
+- Creating end-to-end software solutions with **Python**, **Java**, and **SQL**
+
+ **Experience:**
+- **AI Trainee** @ Information Technology Institute (ITI) — Backend development & ML pipelines
+- **Freelance AI Consultant** @ Outlier AI — Model evaluation & data-driven insights
+- **IEEE AI Department Member** — Contributing to AI projects and technical community
+
+ **AI Interests:**
+- **Computer Vision**: Image enhancement, object detection, medical imaging
+- **Machine Learning**: Supervised learning, classification, fraud detection
+- **NLP**: Chatbots, sentiment analysis, multilingual models
+- **Reinforcement Learning**: Game AI, pathfinding algorithms (A*)
+
+ **Currently Learning:** Deep Learning (CNNs, RNNs), Cloud ML Deployment (AWS, Azure), Advanced Data Structures
+
+ **Let's Connect:** I'm always open to collaborating on AI/ML projects or discussing innovative ideas!
 
 
 ## 🌐 Socials:
